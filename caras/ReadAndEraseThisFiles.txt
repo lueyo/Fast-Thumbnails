@@ -1,0 +1,2 @@
+put here your faces saying OMG as {n}.png for example 0.png 1.png
+you must configure the position in gui.pyw

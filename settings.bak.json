@@ -1,0 +1,28 @@
+{
+    "resolucion": [1280, 720],
+    "color_texto": "#FFFF00",
+    "color_contorno": "#000000",
+    "tamaño_texto": 80,
+    "grosor_contorno": 5,
+    "posicion_texto": [50, 500],
+    "limite_ancho_texto": 1000,
+    "max_caras": 10,
+    "posicion_cara": [770, 100],
+    "fuente": "Arial.ttf",
+    "tamaño_cara": "vertical",
+    "filtro": {
+        "activo": true,
+        "tipo": "degradado",
+        "color_primario": "#000000",
+        "color_secundario": "#0FF000",
+        "opacidad": 0.5,
+        "direccion": "vertical"
+    },
+    "video_predeterminado": "./video.mp4",
+    "carpeta_salida": "./miniaturas",
+    "configuracion_parte": {
+        "posicion": [50, 50],
+        "tamaño": 40,
+        "color": "#FFFF00"
+    }
+}
